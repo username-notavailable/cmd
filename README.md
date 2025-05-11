@@ -9,8 +9,6 @@ composer create-project fuzzy/cmd "foo_dir"
 
 
 Usage:
-<br />
-<small>from "foo_dir" directory</small>
 ```
 php console list
 ```
