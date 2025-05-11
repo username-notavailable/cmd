@@ -2,5 +2,16 @@
 
 ### A simple "console" based on symfony/console package
 
-Usage "$> php console list"
+Installation:
+```
+composer create-project fuzzy/cmd "foo_dir"
+```
+
+
+Usage:
+<br />
+<small>from "foo_dir" directory</small>
+```
+php console list
+```
 
