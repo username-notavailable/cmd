@@ -1,6 +1,6 @@
 {
     "name": "fuzzy/cmd",
-    "description": "Console basata su symfony/console",
+    "description": "A simple \"console\" based on symfony/console package",
     "type": "project",
     "require": {
         "php": "^8.2",
